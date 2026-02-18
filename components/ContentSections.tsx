@@ -89,9 +89,10 @@ export const VideoSection: React.FC = () => {
           <div className="relative pt-[125%] w-full">
             <iframe
               id="js_video_iframe"
-              src="https://jumpshare.com/embed/udjxPEvtYWs30ybSmPd5"
+              src="https://www.youtube.com/embed/awoL2jAMvvU"
               frameBorder="0"
               className="absolute top-0 left-0 w-full h-full"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
               title="Vídeo de Apresentação"
             ></iframe>
