@@ -60,10 +60,6 @@ export const FAQ: React.FC = () => {
       answer: "O pilar central do meu trabalho é a ética e o não-julgamento. O consultório é o lugar onde \"o feio\", \"o errado\" e \"o vergonhoso\" podem ser ditos e acolhidos com humanidade."
     },
     {
-      question: "Aceita convênios?",
-      answer: "Trabalho apenas com atendimentos particulares para garantir a liberdade de tempo e a profundidade que o convênio muitas vezes limita. Porém, forneço recibo para reembolso se seu plano permitir."
-    },
-    {
       question: "Quanto tempo dura o tratamento?",
       answer: "Não vendemos \"pacotes de cura\" com data para acabar. Respeitamos o seu tempo psíquico. A análise dura o tempo que fizer sentido para a sua busca."
     }
